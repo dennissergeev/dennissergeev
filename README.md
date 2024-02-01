@@ -21,4 +21,4 @@ I use Python to for data analysis and visualisation. I am an advocate for open-s
 - :cyclone: **[Structure of a shear-line polar low](https://github.com/dennissergeev/structure-of-a-shear-line-polar-low-notebooks)**
 
 ### :tada: Fun projects
-- :robot: [Twitter/X bot that generates word clouds of open access publications in atmospheric sciences](https://github.com/dennissergeev/atmosscibot)
+- :robot: **[Twitter/X bot that generates word clouds of open access publications in atmospheric sciences](https://github.com/dennissergeev/atmosscibot)**
