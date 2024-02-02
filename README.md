@@ -5,7 +5,7 @@ I use Python for data analysis and visualisation. I am an advocate for open-sour
 
 - :page_facing_up: **[My CV with auto-generated metrics](https://github.com/dennissergeev/cv)**
 
-### :star: My popular repositories
+### :star: My software packages
 
 - :wind_face: **[aeolus](https://github.com/exoclim/aeolus)** - a toolkit for the analysis and visualisation of atmospheric model output
 - :compass: **[octant](https://github.com/dennissergeev/octant)** - Objective Cyclone Tracking ANalysis Tools
