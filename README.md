@@ -16,7 +16,7 @@ I use Python for data analysis and visualisation. I am an advocate for open-sour
 - :twisted_rightwards_arrows: **[Bistability of atmospheric circulation on TRAPPIST-1e](https://github.com/dennissergeev/t1e_bistability_code)**
 - :ramen: **[The TRAPPIST-1 Habitable Atmosphere Intercomparison (THAI)](https://github.com/projectcuisines/thai_trilogy_code)**
 - :cloud: **[Atmospheric convection plays a key role in the climate of tidally-locked terrestrial exoplanets](https://github.com/dennissergeev/exoconvection-apj-2020)**
-- :ghost: **[Polar mesoscale cyclones in ERA5 and ERA-Interim over the Nordic Seas region (rejected)](https://github.com/dennissergeev/mc_era5)**
+- :ghost: **[Polar mesoscale cyclones in ERA5 and ERA-Interim over the Nordic Seas region (rejected after major revisions)](https://github.com/dennissergeev/mc_era5)**
 - :mountain: **[Modification of Polar Low Development by Orography and Sea Ice](https://github.com/dennissergeev/mplosi)**
 - :cyclone: **[Structure of a shear-line polar low](https://github.com/dennissergeev/structure-of-a-shear-line-polar-low-notebooks)**
 
