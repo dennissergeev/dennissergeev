@@ -10,7 +10,7 @@ I use Python for data analysis and visualisation. I am an advocate for open-sour
 - :wind_face: **[aeolus](https://github.com/exoclim/aeolus)** - a toolkit for the analysis and visualisation of atmospheric model output
 - :compass: **[octant](https://github.com/dennissergeev/octant)** - Objective Cyclone Tracking ANalysis Tools
 
-### :scroll: The code for reproducing all my first-author papers is hosted on GitHub
+### :scroll: Scripts for reproducing all my first-author papers
 
 - :globe_with_meridians: **[Simulations of idealised 3D atmospheric flows on terrestrial planets using LFRic-Atmosphere](https://github.com/dennissergeev/lfric_exo_bench_code)**
 - :twisted_rightwards_arrows: **[Bistability of atmospheric circulation on TRAPPIST-1e](https://github.com/dennissergeev/t1e_bistability_code)**
