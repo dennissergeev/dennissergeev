@@ -1,7 +1,10 @@
 ## :wave: Hi, I'm Denis!
 
-I am an atmospheric modeller at the University of Exeter's [Exoplanet Theory Group](https://exoclimatology.com). I use 3D general circulation models (GCMs) to improve our understanding of terrestrial exoplanets and their more exotic cousins.
-I use Python for data analysis and visualisation. I am an advocate for open-source research software.
+I am an atmospheric modeller at the University of Exeter's [Exoplanet Theory Group](https://exoclimatology.com).
+I use numerical models, mostly 3D general circulation models (GCMs), to understand the physical and chemical processes on solar system and extrasolar planets.
+I am a co-lead of NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons.
+I use Python for data analysis and visualisation.
+I am an advocate for open-source research software.
 
 - :page_facing_up: **[My CV with auto-updated metrics](https://github.com/dennissergeev/cv)**
 
