@@ -15,6 +15,7 @@ I am an advocate for open-source research software.
 
 ### :scroll: Scripts for reproducing my papers
 
+- :construction: **[LFRic for sub-Neptunes and hot Jupiters (in prep.)](https://github.com/dennissergeev/lfric_hj_bench_code)**
 - :cloud_with_lightning_and_rain: **[Thunderstruck (in prep.)](https://github.com/dennissergeev/thunderstruck)**
 - :globe_with_meridians: **[The impact of convection on the climate of a tidally locked planet in global stretched-mesh simulations](https://github.com/dennissergeev/stretched_mesh_code)**
 - :waxing_gibbous_moon: **[Simulations of idealised 3D atmospheric flows on terrestrial planets using LFRic-Atmosphere](https://github.com/dennissergeev/lfric_exo_bench_code)**
