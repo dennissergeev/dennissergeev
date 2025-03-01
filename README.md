@@ -1,6 +1,6 @@
 ## :wave: Hi, I'm Denis!
 
-I am an atmospheric modeller at the [Exoclimatology Theory Group](https://github.com/exoclim).
+I am a lecturer in the [Astrophysics Group](https://github.com/astro-group-bristol) at the University of Bristol and also part of the [Exoclimatology Theory Group](https://github.com/exoclim).
 I use numerical models, mostly 3D general circulation models (GCMs), to understand the physical and chemical processes on solar system and extrasolar planets.
 I am leading the adaptation of LFRic, the Met Office's new weather & climate model, to planetary atmospheres.
 I am a co-lead of NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons.
