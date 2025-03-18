@@ -7,14 +7,14 @@ I am a co-lead of NASA NExSS [CUISINES](https://github.com/projectcuisines), an 
 I use Python for data analysis and visualisation.
 I am an advocate for open-source research software.
 
-- :page_facing_up: **[My CV with auto-updated metrics](https://github.com/dennissergeev/cv)**
+- :page_facing_up: **[My CV](https://github.com/dennissergeev/cv)**
 
 ### :star: My software packages
 
 - :wind_face: **[aeolus](https://github.com/exoclim/aeolus)** - a toolkit for the analysis and visualisation of atmospheric model output
 - :compass: **[octant](https://github.com/dennissergeev/octant)** - Objective Cyclone Tracking ANalysis Tools
 
-### :scroll: Scripts for reproducing my papers
+### :scroll: Scripts for reproducing my lead-author papers
 
 - :construction: **[LFRic for sub-Neptunes and hot Jupiters (in prep.)](https://github.com/dennissergeev/lfric_hj_bench_code)**
 - :cloud_with_lightning_and_rain: **[Thunderstruck (in prep.)](https://github.com/dennissergeev/thunderstruck)**
