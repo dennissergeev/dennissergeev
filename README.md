@@ -4,9 +4,9 @@
 
 - Lecturer in the [Astrophysics Group](https://github.com/astro-group-bristol) at the University of Bristol
 - Member of the cross-institute [Exoclimatology Theory Group](https://github.com/exoclim)
-- Lead the adaptation of [LFRic](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric), the Met Office's new weather & climate model, to planetary atmospheres
-- Co-lead NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons
-- Use Python for data analysis and visualisation
+- Leading the adaptation of [LFRic](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric), the Met Office's new weather & climate model, to planetary atmospheres
+- Co-leading NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons
+- Using Python for data analysis and visualisation
 
 ### :star: My software packages
 
