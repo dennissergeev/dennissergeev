@@ -3,7 +3,7 @@
 :page_facing_up: **[My CV](https://github.com/dennissergeev/cv)**
 
 - Lecturer in the [Astrophysics Group](https://github.com/astro-group-bristol) at the University of Bristol
-- Member of the cross-institute [Exoclimatology Theory Group](https://github.com/exoclim)
+- Member of the [Exoclimatology Theory Group](https://github.com/exoclim)
 - Leading the adaptation of [LFRic](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric), the Met Office's new weather & climate model, to planetary atmospheres
 - Co-leading NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons
 - Using Python for data analysis and visualisation
@@ -16,7 +16,7 @@
 ### :scroll: Scripts for reproducing my lead-author papers
 
 - :construction: **[LFRic for sub-Neptunes and hot Jupiters (in prep.)](https://github.com/dennissergeev/lfric_hj_bench_code)**
-- :cloud_with_lightning_and_rain: **[Thunderstruck (in prep.)](https://github.com/dennissergeev/thunderstruck)**
+- :cloud_with_lightning_and_rain: **[Thunderstruck](https://github.com/dennissergeev/thunderstruck)**
 - :globe_with_meridians: **[The impact of convection on the climate of a tidally locked planet in global stretched-mesh simulations](https://github.com/dennissergeev/stretched_mesh_code)**
 - :waxing_gibbous_moon: **[Simulations of idealised 3D atmospheric flows on terrestrial planets using LFRic-Atmosphere](https://github.com/dennissergeev/lfric_exo_bench_code)**
 - :twisted_rightwards_arrows: **[Bistability of atmospheric circulation on TRAPPIST-1e](https://github.com/dennissergeev/t1e_bistability_code)**
