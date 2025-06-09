@@ -16,7 +16,7 @@
 ### :scroll: Scripts for reproducing my lead-author papers
 
 - :construction: **[LFRic for sub-Neptunes and hot Jupiters (in prep.)](https://github.com/dennissergeev/lfric_hj_bench_code)**
-- :cloud_with_lightning_and_rain: **[Thunderstruck](https://github.com/dennissergeev/thunderstruck)**
+- :cloud_with_lightning_and_rain: **[Lightning activity on a tidally locked terrestrial exoplanet in storm-resolving simulations for a range of surface pressures](https://github.com/dennissergeev/thunderstruck)**
 - :globe_with_meridians: **[The impact of convection on the climate of a tidally locked planet in global stretched-mesh simulations](https://github.com/dennissergeev/stretched_mesh_code)**
 - :waxing_gibbous_moon: **[Simulations of idealised 3D atmospheric flows on terrestrial planets using LFRic-Atmosphere](https://github.com/dennissergeev/lfric_exo_bench_code)**
 - :twisted_rightwards_arrows: **[Bistability of atmospheric circulation on TRAPPIST-1e](https://github.com/dennissergeev/t1e_bistability_code)**
