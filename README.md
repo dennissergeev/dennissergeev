@@ -1,8 +1,9 @@
-## :wave: Hi, I'm Denis!
+## :wave: Hi there!
 
 :page_facing_up: **[My CV](https://github.com/dennissergeev/cv)**
 
-- Lecturer in the [Astrophysics Group](https://github.com/astro-group-bristol) at the University of Bristol
+I am:
+- Lecturer in Astrophysics at the University of Bristol
 - Member of the [Exoclimatology Theory Group](https://github.com/exoclim)
 - Leading the adaptation of [LFRic](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric), the Met Office's new weather & climate model, to planetary atmospheres
 - Co-leading NASA NExSS [CUISINES](https://github.com/projectcuisines), an international collaboration on exoplanet model intercomparisons
